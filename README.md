@@ -11,10 +11,34 @@ I have over three years of experience creating **user-centric digital products**
 ---
 
 ### 🚀 **Technologies I Work With**  
-- **Languages**: JavaScript, HTML, CSS  
-- **Frameworks & Libraries**: React, Express, Bootstrap 
-- **Databases**: MongoDB, Atlas  
-- **Tools**: Figma, Visual Studio Code, Git, Framer, Wordpress
+
+- **Languages**: JavaScript, HTML, CSS, markdown, babel
+ <p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=babel,html,js,md,css " />
+  </a>
+</p>
+
+- **Frameworks & Libraries**: React, Express, Bootstrap, Material UI, node
+ <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,express,materialui,nodejs,react " />
+  </a>
+</p>
+
+- **Databases**: MongoDB, Atlas
+ <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+</p>
+
+- **Tools**: Figma, Visual Studio Code, Git, Vite, Postman, Framer, Wordpress, Webflow, Illustrator, Photoshop, Notion, Codepen, Arduino
+ <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordpress,webflow,vscode,vite,postman,notion,ai,figma,codepen,arduino " />
+  </a>
+</p>
 
 ---
 
