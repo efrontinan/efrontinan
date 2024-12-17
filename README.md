@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dt9pviq34/image/upload/v1734460233/iywpas78myq4fkr8d6ey.png" alt="Elena's Photo" width="150" style="border-radius: 50%;">
+  <img src="https://res.cloudinary.com/dt9pviq34/image/upload/v1734460233/iywpas78myq4fkr8d6ey.png" alt="Elena's Photo" width="100%" style="border-radius: 50%;">
 </p>
 
 # 👋 Hi, I'm Elena  
