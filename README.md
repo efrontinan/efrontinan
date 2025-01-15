@@ -15,7 +15,7 @@ I have over three years of experience creating **user-centric digital products**
 - **Languages**: JavaScript, HTML, CSS, markdown, babel, Typescript
  <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=babel,html,js,md,css, ts " />
+    <img src="https://skillicons.dev/icons?i=babel,html,js,md,css,ts " />
   </a>
 </p>
 
